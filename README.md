@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @timsluis
-- 👀 I’m interested in hack hack
+- 🗺️ Working on Studio Wolf Maps 
+- 🐺 Co-Founder of Studio Wolf
 - 🌱 I’m currently learning GIS stuff
 - 💞️ I’m looking to collaborate on cool products that use maps.
 - 📫 How to reach me: tim@studiowolf.com
